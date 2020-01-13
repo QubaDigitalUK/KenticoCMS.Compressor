@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/KenticoCMS.Compressor/v16/Server/sqlite3
+/obj/Debug
+/.vs/KenticoCMS.Compressor/v16
