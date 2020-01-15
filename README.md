@@ -32,6 +32,13 @@ It uses pngcrush and jpegtran for the compression and works for media libraries 
 ~~~~
    
  before the closing </configuration> element.
+ 
+# Support, Contributions & Bug Fixes
+This plugin is provided within the terms of the license below.
+
+Bugs and issues can be raised in github, which we will endeavour to respond to promptly, though we have no set timeframe to do so. 
+
+You are free to submit pull requests for your own fixes or updates.
 
 # License
 This widget is provided under MIT license.
